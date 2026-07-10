@@ -1,0 +1,6 @@
+{
+  "name": "EcoFlow AI",
+  "description": "An AI-powered carbon emission forecasting and sustainability recommendation platform featuring Odoo XML-RPC integration, pandas data cleaning, scikit-learn predictive modeling, and a high-fidelity control dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
